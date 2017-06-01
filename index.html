@@ -2,17 +2,34 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<div class="your-class">
+  <div><img src="https://unsplash.it/g/1000/701/?random&gravity=center" style="margin:0 auto;"/></div>
+  <div><img src="https://unsplash.it/g/1000/699/?random&gravity=center" style="margin:0 auto;"/></div>
+  <div><img src="https://unsplash.it/g/1000/702/?random&gravity=center" style="margin:0 auto;"/></div>
+    <div><img src="https://unsplash.it/g/1000/698/?random&gravity=center" style="margin:0 auto;"/></div>
+  <div><img src="https://unsplash.it/g/1000/703/?random&gravity=center" style="margin:0 auto;"/></div>
+    <div><img src="https://unsplash.it/g/1000/697/?random&gravity=center" style="margin:0 auto;"/></div>
+  <div><img src="https://unsplash.it/g/1000/700/?random&gravity=center" style="margin:0 auto;"/></div>
 </div>
+
+<style>
+.slick-slide{margin:0 auto;float:right;}
+.your-class{margin:0 auto;}
+.slick-next{float:right;}
+</style>
+
+
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+				
+
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $('.your-class').slick({
+      prevArrow:"<img class='a-left control-c prev slick-prev' src='https://icon.now.sh/chevron/left'>",
+      nextArrow:"<img class='a-right control-c next slick-next' src='https://icon.now.sh/chevron/right'>"
+
+      });
+    });
+  </script>
