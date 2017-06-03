@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
+<div class="paginator-center text-color text-center">
 
+    <ul>
+        <li class="prev">PREV</li>
+        <li class="next">NEXT</li>
+    </ul>
+</div>
 <div class="your-class">
 
   <div><img src="images/thumb.jpg" style="margin:0 auto; max-width:1000px;"/></div>
@@ -34,8 +40,8 @@ layout: default
   <script type="text/javascript">
     $(document).ready(function(){
       $('.your-class').slick({
-      prevArrow:"<img class='a-left control-c prev slick-prev' src='https://icon.now.sh/chevron/left'>",
-      nextArrow:"<img class='a-right control-c next slick-next' src='https://icon.now.sh/chevron/right'>"
+           prevArrow: $('.prev'),
+      nextArrow: $('.next')
 
       });
     });
