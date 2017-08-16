@@ -3,9 +3,12 @@ layout: default
 ---
 
 <section id="photos">
-	<a href="#"><img src="images/elbow.jpg"/></a>
-	<a href="#"><img src="images/detail-2.jpg"/></a>
-	<a href="#"><img src="images/detail.jpg"/></a>
+	<a href="#"><img src="https://source.unsplash.com/random/800x400"/></a>
+	<a href="#"><img src="https://source.unsplash.com/random/800x400"/></a>
+	<a href="#"><img src="https://source.unsplash.com/random/800x400"/></a>
+	<a href="#"><img src="https://source.unsplash.com/random/800x400"/></a>
+	<a href="#"><img src="https://source.unsplash.com/random/800x400"/></a>
+	<a href="#"><img src="https://source.unsplash.com/random/800x400"/></a>
 	
 </section>
 
@@ -14,19 +17,5 @@ layout: default
   <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 				
-<script>
-	function getRandomSize(min, max) {
-  return Math.round(Math.random() * (max - min) + min);
-}
 
-var allImages = "";
-
-for (var i = 0; i < 25; i++) {
-  var width = getRandomSize(200, 400);
-  var height =  getRandomSize(200, 400);
-  allImages += '<img src="https://placekitten.com/'+width+'/'+height+'" alt="pretty kitty">';
-}
-
-$('#photos').append(allImages);
-</script>
 
