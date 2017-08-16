@@ -161,7 +161,7 @@ img {
   }
 }
 
-.site-avatar {
+.e-avatar {
 display:none;
 
   @include mobile {
@@ -190,7 +190,7 @@ display:none;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 42px;
   letter-spacing: 1px;
 }
 
