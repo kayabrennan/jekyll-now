@@ -4,10 +4,9 @@ title: C.V
 permalink: /cv/
 ---
 
-## CV
 ### Education
-* Crawford College of Art and Design, BA, Fine Art, 2013-2017
-* Ballyfermot College of Further Education, FETAC Level 5, Graphic Design, Print-making & Photography, 2011-2012
+* Crawford College of Art and Design, BA, Fine Art, Cork, Ireland 2013-2017
+* Ballyfermot College of Further Education, FETAC Level 5, Graphic Design, Print-making & Photography, Dublin, Ireland, 2011-2012
 
 ## Work Experience
 
@@ -33,22 +32,17 @@ permalink: /cv/
 
 ### Exhibition Record
 
-**‘Beyond Dialogue’**, Crawford Degree Show, 2017
-
-**KFEST Arts and Music,** Kilorglin, Kerry, June 2015, 2016 & 2017
-
-**‘Murmuration’**, Crawford Third Year Show, The Village Hall, Cork, May 2016
-
-**Group Show**, Camden Palace Hotel Community Arts Centre, Cork, 2015
+* ‘Beyond Dialogue’, Crawford Degree Show, 2017
+* KFEST Arts and Music, Kilorglin, Kerry, June 2015, 2016 & 2017
+* ‘Murmuration’, Crawford Third Year Show, The Village Hall, Cork, May 2016
+* Group Show, Camden Palace Hotel Community Arts Centre, Cork, 2015
 
 ### Artist Residencies 
 
-**Limerick Printmakers Studio and Gallery**, Limerick City, January - June 2018
+* Limerick Printmakers Studio and Gallery, Limerick City, January - June 2018
 
 ### Invigilation
 
-**Patrick O’Connor, (1940- )**, Kilkenny County Council Arts Office, August 2011
-
-**The Museum of Broken Relationships**, Kilkenny County Council Arts Office, July 2009
-
-**Postcards from the Edge**, Kilkenny County Council Arts Office, 2007
+* Patrick O’Connor, (1940- ), Kilkenny County Council Arts Office, August 2011
+* The Museum of Broken Relationships, Kilkenny County Council Arts Office, July 2009
+* Postcards from the Edge, Kilkenny County Council Arts Office, 2007
