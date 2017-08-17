@@ -5,10 +5,10 @@ permalink: /cv/
 ---
 
 ### Education
-* Crawford College of Art and Design, BA, Fine Art, Cork, Ireland 2013-2017
+* Crawford College of Art and Design, BA, Fine Art, Cork, Ireland, 2013-2017
 * Ballyfermot College of Further Education, FETAC Level 5, Graphic Design, Print-making & Photography, Dublin, Ireland, 2011-2012
 
-## Work Experience
+### Work Experience
 
 **August 2016 – November 2016:** Volunteering in the Lewis Glucksman Gallery, Cork with Anti-Deportation Ireland
 * Facilitating groups of teenagers in various art workshops alongside other artists
