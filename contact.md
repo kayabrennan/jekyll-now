@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: page
 title: Contact
 permalink: /contact/
 ---
