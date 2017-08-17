@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 ### Education
-* B.A., Fine Art, Crawford College of Art and Design, Cork, Ireland, 2013 - 2017
+* BA (Honours), Fine Art, Crawford College of Art and Design, Cork, Ireland, 2013 - 2017
 * FETAC Level 5, Graphic Design, Print-making & Photography, Ballyfermot College of Further Education, Dublin, Ireland, 2011 - 2012
 
 ### Work Experience
