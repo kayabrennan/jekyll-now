@@ -28,7 +28,11 @@ permalink: /five/
       <a data-fancybox="gallery" href="{{ site.baseurl }}/images/Blackandwhitenegs/7.jpg"><img src="{{ site.baseurl }}/images/Blackandwhitenegs/Thumbnails/7.jpg"></a>
    </div>
 </section>
-<script>$(document).ready(function() {
-    $.fancybox.trigger('click'); 
-});</script>
+<script> $('[data-fancybox]').fancybox({
+        protect: true,          
+        afterShow: function() {
+             var imageWidth = $(".fancybox-slide--current .fancybox-image-wrap").width();
+             $(".fancybox-caption").css("width", imageWidth);
+        }       
+ });</script>
 
