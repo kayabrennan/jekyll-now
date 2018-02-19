@@ -32,7 +32,9 @@ permalink: /five/
         protect: true,          
         afterShow: function() {
              var imageWidth = $(".fancybox-slide--current .fancybox-image-wrap").width();
-             $(".fancybox-caption").css("border","none");
+           
+              $(".fancybox-caption").css("width",imageWidth);
+             $(".fancybox-caption").css("border","0 auto");
         }       
  });</script>
 
