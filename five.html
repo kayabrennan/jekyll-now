@@ -16,7 +16,7 @@ permalink: /five/
    <div>
     <a data-fancybox="gallery" href="{{ site.baseurl }}/images/Blackandwhitenegs/1.jpg" data-caption="Hello there"><img src="{{ site.baseurl }}/images/Blackandwhitenegs/Thumbnails/1.jpg"></a>
 
-    <a data-fancybox="gallery" href="{{ site.baseurl }}/images/Blackandwhitenegs/2.jpg"><img src="{{ site.baseurl }}/images/Blackandwhitenegs/Thumbnails/2.jpg"></a>
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/images/Blackandwhitenegs/2.jpg" data-caption="Hello again"><img src="{{ site.baseurl }}/images/Blackandwhitenegs/Thumbnails/2.jpg"></a>
 
     <a data-fancybox="gallery" href="{{ site.baseurl }}/images/Blackandwhitenegs/3.jpg"><img src="{{ site.baseurl }}/images/Blackandwhitenegs/Thumbnails/3.jpg"></a>
    </div>
@@ -32,7 +32,7 @@ permalink: /five/
         protect: true,          
         afterShow: function() {
              var imageWidth = $(".fancybox-slide--current .fancybox-image-wrap").width();
-             $(".fancybox-caption").css("width", imageWidth);
+             $(".fancybox-caption").css("border","none");
         }       
  });</script>
 
