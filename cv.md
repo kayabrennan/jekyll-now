@@ -32,7 +32,7 @@ permalink: /cv/
 
 **August 2012 – April 2013:** Arts Administration Internship, Kilkenny County Council Arts Office
 * Managing the ‘Upstairs Gallery’: duties included; sales, exhibition openings, handling of the work, press and marketing
-* Facilitating and organizing a host of workshops for adults and children, and writing workshops
+* Organizing and facilitating a host of workshops for adults and children.
 
 
 **June 2011 – June 2017:** Work as part of the Decorative team for ‘Body&Soul’, both at ‘Body&Soul’ Festival and the ‘Body&Soul’ area at Electric Picnic
