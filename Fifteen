@@ -23,8 +23,7 @@ permalink: /fifteen/
     <a data-fancybox="gallery" href="{{ site.baseurl }}/images/thesea/Three.jpg"data-caption="Digital Photograph, Clare, 2018"><img src="{{ site.baseurl }}/images/thesea/Thumbnails/Three.jpg"></a>
     </div><div>
         <a data-fancybox="gallery" href="{{ site.baseurl }}/images/thesea/Four.jpg"data-caption="Digital Photograph, Clare, 2018"><img src="{{ site.baseurl }}/images/thesea/Thumbnails/Four.jpg"></a>
-      </div>
-      <div>
+   
         <a data-fancybox="gallery" href="{{ site.baseurl }}/images/thesea/Five.jpg"data-caption="Digital Photograph, Clare, 2018"><img src="{{ site.baseurl }}/images/thesea/Thumbnails/Five.jpg"></a>
       </div>
  
