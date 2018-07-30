@@ -16,13 +16,16 @@ permalink: /fifteen/
 
 <section id="photos"> 
   <div>
-    <a data-fancybox="gallery" href="{{ site.baseurl }}/images/The Sea/One.jpg"data-caption="Digital Photograph, Clare, 2018"><img src="{{ site.baseurl }}/images/The Sea/Thumbnails/One.jpg"></a>
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/images/thesea/One.jpg"data-caption="Digital Photograph, Clare, 2018"><img src="{{ site.baseurl }}/images/thesea/Thumbnails/One.jpg"></a>
 
-    <a data-fancybox="gallery" href="{{ site.baseurl }}/images/The Sea/Two.jpg"data-caption="Digital Photograph, Clare, 2018"><img src="{{ site.baseurl }}/images/The Sea/Thumbnails/Two.jpg"></a>
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/images/thesea/Two.jpg"data-caption="Digital Photograph, Clare, 2018"><img src="{{ site.baseurl }}/images/thesea/Thumbnails/Two.jpg"></a>
 
-    <a data-fancybox="gallery" href="{{ site.baseurl }}/images/The Sea/Three.jpg"data-caption="Digital Photograph, Clare, 2018"><img src="{{ site.baseurl }}/images/The Sea/Thumbnails/Three.jpg"></a>
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/images/thesea/Three.jpg"data-caption="Digital Photograph, Clare, 2018"><img src="{{ site.baseurl }}/images/thesea/Thumbnails/Three.jpg"></a>
     </div><div>
-        <a data-fancybox="gallery" href="{{ site.baseurl }}/images/The Sea/Four.jpg"data-caption="Digital Photograph, Clare, 2018"><img src="{{ site.baseurl }}/images/The Sea/Thumbnails/Four.jpg"></a>
+        <a data-fancybox="gallery" href="{{ site.baseurl }}/images/thesea/Four.jpg"data-caption="Digital Photograph, Clare, 2018"><img src="{{ site.baseurl }}/images/thesea/Thumbnails/Four.jpg"></a>
+      </div>
+      <div>
+        <a data-fancybox="gallery" href="{{ site.baseurl }}/images/thesea/Five.jpg"data-caption="Digital Photograph, Clare, 2018"><img src="{{ site.baseurl }}/images/thesea/Thumbnails/Five.jpg"></a>
       </div>
  
 </section>
