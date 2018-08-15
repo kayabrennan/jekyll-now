@@ -14,31 +14,42 @@ permalink: /cv/
 
 ### Exhibition Record
 
-* ‘Beyond Dialogue’, Crawford Degree Show, 2017
+* Kilkenny Arts Festival, AKA Fringe, 2018
+* Group Show, CB1 Art Gallery, Limerick
+* Beyond Dialogue, Crawford Degree Show, 2017
+* KFEST Arts Festival, 2017
+* Murmuration, Group Show, The Village Hall, Cork 2016
+* KFEST Arts Festival, 2016
+* Camden Palace Hotel Community Arts Centre, Group Show, 2015
+* KFest Arts Festival, 2015
+* Kilkenny County Council Arts Office, Gallery Space, Group Show, 2012
 
-*  KFEST Arts and Music, Kilorglin, Kerry, June 2015, 2016 & 2017
-
-* ‘Murmuration’, Crawford Third Year Show, The Village Hall, Cork, May 2016
-
-* Group Show, Camden Palace Hotel Community Arts Centre, Cork, 2015
 
 ### Work Experience
 
-**August 2016 – November 2016:** Volunteering in the Lewis Glucksman Gallery, Cork with Anti-Deportation Ireland
+**Venue Manager** EVA International Irish Biennial, Limerick, Limerick, April - July 2018
 
 
-**June 2016 – August 2016:** CIT Student Scholarship ‘Volunteer Abroad’, Teaching Art to Youths in Oaxaca, Mexico
+**Set Design & Prop Maker** Villiers School Theatre Production, Limerick, May 2018 
+
+**Creative Practitioner** School of Spectacle : European Academy of Outdoor Arts & Walk the Plank, Limerick, March 2018
+
+**Artist Facilitator** workshops in the Lewis Glucksman Gallery, Cork with Anti-Deportation Ireland, August 2016 – November 2016
 
 
-**August 2012 – April 2013:** Arts Administration Internship, Kilkenny County Council Arts Office
-* Managing the ‘Upstairs Gallery’: duties included; sales, exhibition openings, handling of the work, press and marketing
-* Organizing and facilitating a host of workshops for adults and children.
+**Community Artist & Teacher** CIT Student Scholarship ‘Volunteer Abroad’, Teaching Art to Youths in Oaxaca, Mexico, June 2016 – August 2016
+
+**Artistic Director** Good Wood: Music and Arts Event, Wicklow, Good Friday: 2013 & 2014 
 
 
-**June 2011 – June 2017:** Work as part of the Decorative team for ‘Body&Soul’, both at ‘Body&Soul’ Festival and the ‘Body&Soul’ area at Electric Picnic
+**Arts Administration** Kilkenny County Council Arts Office, August 2012 – April 2013
+
+
+**Decorative Team** ‘Body&Soul’ festival, Ireland & 'Electric Picnic' festival, Ireland, June 2011 – June 2018
 
 
 ### Invigilation
+* EVA International Irish Biennial, Limerick
 
 * Patrick O’Connor, (1940- ), Kilkenny County Council Arts Office, August 2011
 
