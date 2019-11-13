@@ -36,7 +36,7 @@ permalink: /cv/
 **Gallery Assistant,** Galería Alarcón Criado, Seville Spain, January - July 2019
 
 
-**Venue Manager,** EVA International Irish Biennial, Limerick, Limerick, April - July 2018
+**Venue Manager,** EVA International, Limerick, April - July 2018
 
 
 **Artistic Director,** Freelance, Villiers school in collaboartion with independant theatre company, Limerick, May 2018 
@@ -58,7 +58,7 @@ permalink: /cv/
 
 
 ### Invigilation
-* EVA International Irish Biennial, Limerick
+* EVA International, Limerick, 2018
 
 * Patrick O’Connor, (1940- ), Kilkenny County Council Arts Office, August 2012
 
