@@ -10,27 +10,36 @@ permalink: /cv/
 
 ### Artist Residencies 
 
-* Limerick Printmakers Studio and Gallery, Limerick City, January - June 2018
+* Limerick Printmakers Studio and Gallery, Limerick, January - June 2018
 
 ### Exhibition Record
 
-* Kilkenny Arts Festival, AKA Fringe, 2018
-* Group Show, CB1 Art Gallery, Limerick
+**Solo Shows**
+* Plantlore, FabLab Limerick, October 2018
+
+**Group Shows**
+* Otra Vida, Galería Magnetica, Seville, Spain, 2019
+* Winter Exhibition: Limerick Printmakers , Belltable , Limerick, 2018
+* Enough Art For All: Kaya Brennan & Tom Campbell, Kilkenny Arts Festival, AKA Fringe, 2018
+* Group Exhibition, CB1 Art Gallery, Limerick, 2018
 * Beyond Dialogue, Crawford Degree Show, 2017
 * KFEST Arts Festival, 2017
 * Murmuration, Group Show, The Village Hall, Cork 2016
 * KFEST Arts Festival, 2016
-* Camden Palace Hotel Community Arts Centre, Group Show, 2015
+* Camden Palace Hotel Community Arts Centre, 2015
 * KFest Arts Festival, 2015
-* Kilkenny County Council Arts Office, Gallery Space, Group Show, 2012
+* Kilkenny County Council Arts Office, Gallery Space, 2012
 
 
 ### Work Experience
 
+**Gallery Assistant** Galería Alarcón Criado, Seville Spain, January - July 2019
+
+
 **Venue Manager** EVA International Irish Biennial, Limerick, Limerick, April - July 2018
 
 
-**Set Design & Prop Maker** Villiers School Theatre Production, Limerick, May 2018 
+**Artistic Director** Freelance, Villiers school in collaboartion with independant theatre company, Limerick, May 2018 
 
 **Creative Practitioner** School of Spectacle : European Academy of Outdoor Arts & Walk the Plank, Limerick, March 2018
 
@@ -42,7 +51,7 @@ permalink: /cv/
 **Artistic Director** Good Wood: Music and Arts Event, Wicklow, Good Friday: 2013 & 2014 
 
 
-**Arts Administration** Kilkenny County Council Arts Office, August 2012 – April 2013
+**Arts Administrator** Kilkenny County Council Arts Office, August 2012 – April 2013
 
 
 **Decorative Team** ‘Body&Soul’ festival, Ireland & 'Electric Picnic' festival, Ireland, June 2011 – June 2018
