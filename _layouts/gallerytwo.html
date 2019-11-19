@@ -13,33 +13,28 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="stylesheet" type="text/css" href="http://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
  <style>
-   #photos {   
-    display: flex;
-  flex-wrap: wrap;
-    width: 95%;
-    margin-top:0;
-    margin-left: auto; 
-    margin-right: auto;
+#photos {   
+   display:grid;
+  column-count: 1;
+  position: absolute;
+  right: 150px;
+  top:150px;
+  
 
-     text-align: justify;
-    -ms-text-justify: distribute-all-lines;
-    text-justify: distribute-all-lines;
 }
-#photos div a {
-    vertical-align: top;
-    display: inline-block;
-  margin: 10px auto;
-  padding:5px;
-   text-align: justify;
-    -ms-text-justify: distribute-all-lines;
-    text-justify: distribute-all-lines;
-}
-   
-   .stretch {
-    width: 100%;
-    display: inline-block;
-    font-size: 0;
-    line-height: 0
+
+.wrapper-masthead{top:0px;position:fixed; width:100%;z-index:999999999999; background-color:white;}
+
+#text {    
+    width:380px;
+    
+    position: fixed;
+    
+    overflow: scroll; /* or hidden */
+	 bottom:200px; left:100px;
+
+#photos a {
+	max-width: 380px;
 }
    
 
