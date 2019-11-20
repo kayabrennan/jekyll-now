@@ -2,80 +2,62 @@
 <html>
   <head>
     <title>{{ site.name }} {{ page.title }}</title>
-
     {% include meta.html %}
-
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="stylesheet" type="text/css" href="http://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
     <style>
-      #photos {
-   /* Prevent vertical gaps */
-   line-height: 3;
-   
-   -webkit-column-count: 2;
-   -webkit-column-gap:   2px;
-   -moz-column-count:    0;
-   -moz-column-gap:      2px;
-   column-count:         2;
-   column-gap:           20px;
-}
-      
-      img:hover{
-      opacity:0.8;
-      
+      body {margin: 0; padding: 0; }
+      #photos {   
+       line-height: 3;
+       -webkit-column-count: 2;
+       -webkit-column-gap:   20px;
+       -moz-column-count:    0;
+       -moz-column-gap:      2px;
+       column-count:         2;
+       column-gap:           20px;
       }
+     img:hover{opacity:0.8;}
 
-#photos img {
-  /* Just in case there are inline attributes */
-  width: 100% !important;
-  height: auto !important;
-}
-
+     #photos img {
+        width: 100% !important;
+        height: auto !important;
+      }
       
-      
-@media (max-width: 1200px) {
-  #photos {
-  -moz-column-count:    2;
-  -webkit-column-count: 2;
-  column-count:         2;
-  }
-}
-@media (max-width: 1000px) {
-  #photos {
-  -moz-column-count:    2;
-  -webkit-column-count: 2;
-  column-count:         2;
-  }
-}
-@media (max-width: 800px) {
-  #photos {
-  -moz-column-count:    2;
-  -webkit-column-count: 2;
-  column-count:         2;
-  }
-}
-@media (max-width: 400px) {
-  #photos {
-  -moz-column-count:    1;
-  -webkit-column-count: 1;
-  column-count:         1;
-  }
-}
-
-body {
-  margin: 0;
-  padding: 0;
-      }</style>
-    
-    
-  </head>
-
-  <body>
+      @media (max-width: 1200px) {
+        #photos {
+        -moz-column-count:    2;
+        -webkit-column-count: 2;
+        column-count:         2;
+        }
+      }
+      @media (max-width: 1000px) {
+        #photos {
+        -moz-column-count:    2;
+        -webkit-column-count: 2;
+        column-count:         2;
+        }
+      }
+      @media (max-width: 800px) {
+        #photos {
+        -moz-column-count:    2;
+        -webkit-column-count: 2;
+        column-count:         2;
+        }
+      }
+      @media (max-width: 400px) {
+        #photos {
+        -moz-column-count:    1;
+        -webkit-column-count: 1;
+        column-count:         1;
+        }
+      }
+    </style>
+ </head>
+ <body>
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
@@ -86,18 +68,10 @@ body {
           </div>
 
           <nav style="padding-top:15px; padding-right:0.2in;">
-            
             <a href="https://kayabrennan.com">Home</a>
             <a href="{{ site.baseurl }}/contact/">Contact</a>
             <a href="{{ site.baseurl }}/cv/">C.V.</a>
             <a href="https://instagram.com/kaya_bee_/">Instagram</a>
-            
-          
-            
-            
-            
-            
-
           </nav>
         </header>
       </div>
